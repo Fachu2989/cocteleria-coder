@@ -1,0 +1,102 @@
+[
+  {
+      "id": 1,
+      "nombre": "Margarita",
+      "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/EKJ2NMZOAZDVJIMJS7NEXSSDFY.jpg",
+      "descripcion": "El Margarita es un cóctel hecho a base de tequila, licor de naranja y jugo de lima, servido con hielo en un vaso de borde salado.",
+      "alcohol": "Con Alcohol",
+      "precio": 8.50,
+      "cantidad": 15
+  },
+  {
+      "id": 2,
+      "nombre": "Piña Colada",
+      "imagen": "https://chefeel.com/chefgeneralfiles/2021/11/milky-cocktail-in-glass-with-pinapple-slice-and-cherry-scaled.jpg",
+      "descripcion": "La Piña Colada es un cóctel hecho a base de ron, crema de coco y jugo de piña. Se sirve con hielo picado en un vaso de vidrio y se adorna con una rodaja de piña.",
+      "alcohol": "Con Alcohol",
+      "precio": 9.50,
+      "cantidad": 10
+  },
+  {
+      "id": 3,
+      "nombre": "Mojito",
+      "imagen": "https://elcoctelero.com/wp-content/uploads/2020/09/coctel-mojito-e1606903836707.jpg",
+      "descripcion": "El Mojito es un cóctel cubano hecho a base de ron, menta fresca, limón, agua con gas y azúcar. Se sirve en un vaso alto con hielo picado y se adorna con una ramita de menta.",
+      "alcohol": "Con Alcohol",
+      "precio": 7.50,
+      "cantidad": 20
+  },
+  {
+      "id": 4,
+      "nombre": "Daiquiri",
+      "imagen": "https://www.tucocteleria.com/wp-content/uploads/2018/04/Daiquiri.jpg",
+      "descripcion": "El Daiquiri es un cóctel cubano hecho a base de ron blanco, jugo de limón y azúcar. Se sirve en una copa de cóctel y se adorna con una rodaja de limón.",
+      "alcohol": "Con Alcohol",
+      "precio": 8.00,
+      "cantidad": 18
+  },
+  {
+      "id": 5,
+      "nombre": "Martini",
+      "imagen": "https://recetasdecocina.elmundo.es/wp-content/uploads/2022/04/dry-martini.png",
+      "descripcion": "El Martini es un cóctel clásico hecho a base de ginebra y vermut seco, servido en una copa de Martini y adornado con una aceituna.",
+      "alcohol": "Con Alcohol",
+      "precio": 10.50,
+      "cantidad": 12
+  },
+  {
+      "id": 6,
+      "nombre": "Cosmopolitan",
+      "imagen": "https://www.gourmet.cl/wp-content/uploads/2019/03/Cosmopolitan-edit-553x458.jpg",
+      "descripcion": "El Cosmopolitan es un cóctel hecho a base de vodka, licor de naranja, jugo de lima y jugo de arándanos. Se sirve en una copa de cóctel y se adorna con una rodaja de lima.",
+      "alcohol": "Con Alcohol",
+      "precio": 9.00,
+      "cantidad": 16
+  },
+  {
+        "id": 7,
+        "nombre": "Fresa Daiquiri sin alcohol",
+        "imagen": "https://cdn2.cocinadelirante.com/sites/default/files/images/2019/03/daiquiri-sin-alcohol.jpg",
+        "descripcion": "El Fresa Daiquiri sin alcohol es una versión sin ron del cóctel original, hecho con fresas, jugo de lima y azúcar. Se sirve en una copa de martini y se adorna con una fresa fresca.",
+        "alcohol": "Sin Alcohol",
+        "precio": 7.50,
+        "cantidad": 15
+  },
+  {
+        "id": 8,
+        "nombre": "Ponche de Frutas sin alcohol",
+        "imagen": "https://img-global.cpcdn.com/recipes/33ebbebbde1357c9/400x400cq70/photo.jpg",
+        "descripcion": "El Ponche de Frutas sin alcohol es una bebida fría hecha con una mezcla de jugos de frutas, como naranja, piña y manzana, y se sirve con hielo picado. Se adorna con una rodaja de limón y una cereza.",
+        "alcohol": "Sin Alcohol",
+        "precio": 4.50,
+        "cantidad": 25
+  },
+  {
+        "id": 9,
+        "nombre": "Mojito de Pepino sin alcohol",
+        "imagen": "https://cdn7.kiwilimon.com/recetaimagen/33607/39029.jpg",
+        "descripcion": "El Mojito de Pepino sin alcohol es una variante sin ron del cóctel original, hecho con pepino fresco, menta, jugo de lima y soda. Se sirve en un vaso alto con hielo y se adorna con una rodaja de pepino y una ramita de menta.",
+        "alcohol": "Sin Alcohol",
+        "precio": 6.50,
+        "cantidad": 20
+  },
+  {
+        "id": 10,
+        "nombre": "Té Helado con Frutas",
+        "imagen": "https://media.canalnet.tv/2019/11/jejeje-1.jpg",
+        "descripcion": "El Té Helado con Frutas es una bebida refrescante hecha con té helado, jugo de piña, lima y naranja. Se sirve en un vaso alto con hielo y se adorna con una rodaja de piña y una cereza.",
+        "alcohol": "Sin Alcohol",
+        "precio": 5.50,
+        "cantidad": 22
+  },
+  {
+        "id": 11,
+        "nombre": "Agua de Jamaica",
+        "imagen": "https://www.gastrolabweb.com/u/fotografias/m/2021/6/2/f1280x720-14159_145834_5050.jpg",
+        "descripcion": "El Agua de Jamaica es una bebida refrescante y natural hecha con flores de Jamaica, agua y azúcar. Se sirve fría en un vaso alto con hielo y se adorna con una rodaja de limón.",
+        "alcohol": "Sin Alcohol",
+        "precio": 3.50,
+        "cantidad": 30
+  }
+]
+  

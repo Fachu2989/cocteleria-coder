@@ -1,0 +1,12 @@
+.carrito{
+    margin: 0 auto;
+    width: 3rem;
+    height: 3rem;
+}
+
+.categorias{
+    margin: 0 auto;
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+}

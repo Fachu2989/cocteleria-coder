@@ -1,0 +1,47 @@
+.productoGrid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2rem;
+    justify-items: center;
+}
+
+.card{
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    background: white;
+}
+
+.info-card  {
+    padding: 10px 20px;
+}
+
+.info-card p, 
+.card h2 {
+    margin-bottom: 5px;
+}
+.info-card .precio {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+img{
+    width: 100%;
+    box-sizing: border-box;
+    border: 0;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.detalleProducto{
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.detalleGrid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 2rem;
+    justify-items: center;
+    margin-top: 6rem;
+}

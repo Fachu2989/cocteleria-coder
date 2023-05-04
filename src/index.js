@@ -16,6 +16,8 @@ root.render(
         <Route path='/*' element={<App />}/>
         <Route path='/producto' element={<Productos/>}/>
         <Route path='/producto/:productoId' element={<ProductoDetalle/> }/>
+        <Route path='/productos/conalcohol' element={<App/>}/>
+        <Route path='/productos/sinalcohol' element={<App/>}/>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

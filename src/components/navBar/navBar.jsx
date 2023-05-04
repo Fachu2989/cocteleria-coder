@@ -1,19 +1,27 @@
 import "./navBar.css"
 import CartWidget from "../cartwidget/cartwidget"
+import { NavLink } from "react-router-dom"
+import coctel from './198650.png'
+
 
 
 const NavBar = () => {
+
+
   return (
     <nav className="navBarFlex">
-        <h1>
-            cocteleria
-          </h1>
+        <NavLink to={'/'}  >
+            <img src={coctel} alt="icono" className="icono" />
+        </NavLink>
         <div>
-          <button>Con Alcohol</button>
-          <button>Sin Alcohol</button>
+          <NavLink  to={'/productos/conalcohol'}className="navlink">Con Alcohol</NavLink>
+          
+          <NavLink to={'/productos/sinalcohol'} className="navlink">Sin Alcohol</NavLink>
         </div>
         <CartWidget/>
     </nav>
   )
 }
+
+
  export default NavBar

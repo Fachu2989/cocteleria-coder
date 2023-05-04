@@ -3,3 +3,22 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.navlink{
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 0 2rem;
+}
+
+
+.icono{
+    margin: 0 auto;
+    width: 3rem;
+    height: 3rem;
+}
